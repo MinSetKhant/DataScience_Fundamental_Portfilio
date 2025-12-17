@@ -1,0 +1,11 @@
+# Temporary files (Python)
+__pycache__/
+*.pyc
+*.egg-info/
+venv/
+env/
+# OS and Editor files
+.DS_Store
+.vscode/
+# Jupyter
+.ipynb_checkpoints
